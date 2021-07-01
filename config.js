@@ -1,14 +1,16 @@
 const CONFIG = {
-    introTitle: 'Hello bé uyên dth nha!',
-    introDesc: `Mày phải trả lời thật lòng nha con tró thấy ghet😏
-    btnIntro: 'dza ok anh Hiếu dzai:
-    title: Phải Hoàng Hiếu dzai dth lắm 
-    desc: 'Nên PUyên mê HHieu lắm đúng hong',
-    btnYes: 'Đúng rồi đó anhiu hjhj',
-    btnNo: 'Có cái lon nè thằng khùng thứ nl',
-    question:'Anh bt mà hjhj',
-    btnReply: 'Ủa sao PUyen mê HHieu z',
-    reply: 'Do em thấy a dzai dth',
-    mess: 'Cảm ơn tao bt mà t cũng mê m😏',
+    introTitle: 'Hello bé PUyen nho😏',
+    introDesc: `Mày phải trả lời thật lòng nha con tró`,
+    btnIntro: 'dza ok anh',
+    title: 'Phải HHieu dzai dth lắm',
+    desc: 'Nên PUyen mê HHieu lắm đúng hong',
+    btnYes: 'Dza đr đó aiuu',
+    btnNo: 'Có cc nè tk lon',
+    question:'Ủa sao PUyên mê HHieu z',
+    btnReply: 'Gửi HHieu dzai',
+    reply: 'Ai biểu adzai quá chi:((',
+    mess: 'HHieu bt mà HHieu cũng mê PUyen😏',
+    messDesc: 'Thế nhớ ế cùng HHieu nho',
+    btnAccept: 'Okk aiu=))',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
