@@ -11,6 +11,4 @@ const CONFIG = {
     reply: 'Ai biểu adzai quá chi:((',
     mess: 'HHieu bt mà HHieu cũng mê PUyen😏',
     messDesc: 'Vậy nhớ ế cùng HHieu',
-    btnAccept: 'Okk aiu=))',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    btnAccept: 'Okk aiu=))'.      }
